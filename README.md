@@ -3,7 +3,7 @@
 - I specialize in Frontend Web Development using ReactJs.</li>
 - I have experience in Backend developement using Php and MySQL.</li>
 - I also have experince in embedded system using C/C++ and Python, I have built things with Node MCU and OrangePi.</li>
-- I am familiar with the shell.</li>
+- I am familiar with the shell and bash scripting.</li>
 
 <h3><a href="https://somadedaniel.netlify.app/">Click this link to check out my Portfolio 🙃🙃</a></h3>
 
