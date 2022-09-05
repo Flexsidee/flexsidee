@@ -1,11 +1,11 @@
 ### Hi there 👋 <br> I am Somade Daniel, I am a software engineer (obviously 😂).
 
-<ul>
-  <li>I specialize in Frontend Web Development using ReactJs.</li>
-  <li>I have experience in Backend developement using Php and MySQL.</li>
-  <li>I also have experince in embedded system using C/C++ and Python, I have built things with Node MCU and OrangePi.</li>
-  <li>I am familiar with the shell.</li>
-</ul>
+- I specialize in Frontend Web Development using ReactJs.</li>
+- I have experience in Backend developement using Php and MySQL.</li>
+- I also have experince in embedded system using C/C++ and Python, I have built things with Node MCU and OrangePi.</li>
+- I am familiar with the shell.</li>
+
+<h3><a href="https://somadedaniel.netlify.app/">Click this link to check out my Portfolio 🙃🙃</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
