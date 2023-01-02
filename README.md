@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:flexsidee@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="flexsidee" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/somade-daniel-a52478114/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="somade-daniel-a52478114" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/danielsomade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="somade-daniel-a52478114" height="30" width="40" /></a>
   <a href="https://wa.me/2347019983346" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="flexsidee" height="30" width="40" /></a>
   <a href="https://instagram.com/flexsidee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="flexsidee" height="30" width="40" /></a>
   <a href="https://twitter.com/flexsidee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="flexsidee" height="30" width="40" /></a>
