@@ -2,8 +2,9 @@
 
 - I specialize in Frontend Web Development using ReactJs.</li>
 - I have experience in Backend developement using Php and MySQL.</li>
-- I also have experince in embedded system using C/C++ and Python, I have built things with Node MCU and OrangePi.</li>
+- I also have experince in embedded system using C/C++, I have built things with Node MCU and Arduino.</li>
 - I am familiar with the shell and bash scripting.</li>
+- I am currently learning Mobile Development with Flutter.</li>
 
 <h3><a href="https://somadedaniel.netlify.app/">Click this link to check out my Portfolio 🙃🙃</a></h3>
 
@@ -18,9 +19,9 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flexsidee&langs_count=20&hide=hack,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![](./profile-3d-contrib/profile-green-animate.svg)
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
