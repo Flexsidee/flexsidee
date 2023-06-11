@@ -27,7 +27,7 @@ I'm Somade Daniel, a passionate software developer with a background in Computer
 - 🐦 [Twitter](https://twitter.com/flexsidee)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=flexsidee)](https://github.com/anuraghazra/github-readme-stats) 
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=flexsidee)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=flexsidee&color=green) -->
