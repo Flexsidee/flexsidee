@@ -5,7 +5,7 @@ I'm Somade Daniel, a passionate software developer with a background in Computer
 - 🌐 I also have expertise in Backend Development, working with PHP and MySQL to create robust and scalable solutions.
 - 🌱 I have hands-on experience in IoT using languages like C/C++. I've successfully implemented projects using NodeMCU and Arduino.
 - 🐚 Additionally, I'm proficient in shell and bash scripting, enabling me to automate tasks and enhance productivity.
-- 📱 Currently, I'm expanding my skills in Mobile Development with Flutter, exploring the exciting possibilities of cross-platform app development.
+- 📱 Currently, I'm expanding my skills in Mobile Development with React Native, exploring the exciting possibilities of cross-platform app development.
 - 🧠 I have a keen interest in AI/ML and IoT.
 
 ## Work Experience
