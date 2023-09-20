@@ -26,6 +26,8 @@ I'm Somade Daniel, a passionate software developer with a background in Computer
 - 📷 [Instagram](https://instagram.com/flexsidee)
 - 🐦 [Twitter](https://twitter.com/flexsidee)
 
+![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=flexsidee) 
+
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=flexsidee)](https://github.com/anuraghazra/github-readme-stats)  -->
 
