@@ -3,15 +3,14 @@ I'm Somade Daniel, a passionate software developer with a background in Computer
 
 - 💻 I specialize in Frontend Web Development using React.js, with over 2 years of professional experience.
 - 📱 Currently, I'm expanding my skills in Mobile Development with React Native, exploring the exciting possibilities of cross-platform app development.
-- 🌐 I also have experience in Backend Development, working with PHP and MySQL to create robust and scalable solutions.
+- 🌐 I also have experience in Backend Development, working with PHP, Python and MySQL to create robust and scalable solutions.
 - 🌱 I have hands-on experience in IoT using languages like C/C++. I've successfully implemented projects using NodeMCU and Arduino.
-- 🐚 Additionally, I'm proficient in shell and bash scripting, enabling me to automate tasks and enhance productivity.
-- 🧠 I have a keen interest in AI/ML and IoT.
+<!-- - 🐚 Additionally, I'm proficient in shell and bash scripting, enabling me to automate tasks and enhance productivity. -->
+- 🧠 I have a keen interest in AI/ML.
 
 ## Work Experience
-- 🏢 Internship at Swifts Network, an ISP (Internet Service Provider) company, where I gained valuable experience in network infrastructure and web development to support reliable internet services.
 - 🏢 Currently working at Fieldbase Services Limited, a Maritime Telecommunication Company, contributing to the development of cutting-edge communication technologies and software solutions.
-
+- 🏢 Internship at Swifts Network, an ISP (Internet Service Provider) company, where I gained valuable experience in network infrastructure and web development to support reliable internet services.
 
 ## Projects
 - 🌐 I have built web solutions for various clients, creating responsive and user-friendly websites that meet their specific needs.
@@ -26,7 +25,7 @@ I'm Somade Daniel, a passionate software developer with a background in Computer
 - 📷 [Instagram](https://instagram.com/flexsidee)
 - 🐦 [Twitter](https://twitter.com/flexsidee)
 
-![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=flexsidee) 
+<!-- ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=flexsidee) -->
 
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=flexsidee)](https://github.com/anuraghazra/github-readme-stats)  -->
